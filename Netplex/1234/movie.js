@@ -250,7 +250,8 @@ const MOVIE_ENDPOINTS = [
     { url: 'https://embed.rgshows.me/api/3/movie/?id=', name: 'Server 5' },
     { url: 'https://rivestream.org/embed?type=movie&id=', name: 'Server 6' },
     { url: 'https://vidsrc.rip/embed/movie/', name: 'Server 7' },
-    { url: 'https://vidsrc.cc/v3/embed/movie/', name: 'Server 8' },    
+    { url: 'https://vidsrc.cc/v3/embed/movie/', name: 'Server 8' },   
+    
 ];
 
 // Get the movie ID from the URL query string
